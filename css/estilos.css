@@ -11,8 +11,11 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border:1px solid #333;
-    margin: 0 auto;
+    border:1px solid #dadada;
+    margin: 40px auto;
+    padding-top:20px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px #dadada;
 }
 
 #container h1{
