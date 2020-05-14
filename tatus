@@ -1,0 +1,24 @@
+[33mcommit d311c118b96007f447a516a70e12dbc45b1b7e01[m[33m ([m[1;36mHEAD -> [m[1;32mcabecera[m[33m)[m
+Author: Ricardo Cabrera <ricardo.cabrera.rivera@gmail.com>
+Date:   Tue May 12 09:24:05 2020 -0700
+
+    se agrego estilo al post
+
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mindex 3ee4b1d..f8e7a80 100644[m
+[1m--- a/css/estilos.css[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -11,8 +11,11 @@[m [mbody{[m
+     width: 70%;[m
+     padding: 1em;[m
+     text-align: left;[m
+[31m-    border:1px solid #333;[m
+[31m-    margin: 0 auto;[m
+[32m+[m[32m    border:1px solid #dadada;[m
+[32m+[m[32m    margin: 40px auto;[m
+[32m+[m[32m    padding-top:20px;[m
+[32m+[m[32m    border-radius: 5px;[m
+[32m+[m[32m    box-shadow: 0 5px 5px #dadada;[m
+ }[m
+ [m
+ #container h1{[m
