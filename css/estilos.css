@@ -2,4 +2,32 @@ body{
     color: #333;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
+=======
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid #dadada;
+    margin: 40px auto;
+    padding-top:20px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px #dadada;
+}
+
+#container h1{
+    font-size: 20px;;
+}
+
+header{
+    background-color: deepskyblue;
+    color: ghostwhite;
+    margin-top: 0;
+    padding: 20px 0;
+>>>>>>> cabecera
 }
