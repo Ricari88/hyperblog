@@ -38,3 +38,10 @@ header #logo{
     height: 100px;
     display: flex;
 }
+
+footer{
+    background-color: #333;
+    color: ghostwhite;
+    padding: 20px;
+    text-align: center;
+}
