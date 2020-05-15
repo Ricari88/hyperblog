@@ -1,14 +1,13 @@
 body{
     color: #333;
     font-family: Arial, Helvetica, sans-serif;
-
+    text-align: center;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
 #container{
-    text-align: center;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -20,21 +19,22 @@ body{
 }
 
 #container h1{
-    font-size: 20px;;
+    font-size: 20px;
+    text-align: center;
 }
 
 header{
+    background-image: url('../img/squirtle.png');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: right;
     display: flex;
     background-color: deepskyblue;
     color: ghostwhite;
     margin-top: 0;
     padding: 20px 0;
+    align-items: center;
 }
 header #nombre{
-    display: flex;
-}
-header #logo{
-    width: 100px;
-    height: 100px;
-    display: flex;
+    align-content: center;
 }
