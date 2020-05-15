@@ -24,6 +24,7 @@ body{
 }
 
 header{
+    width: 99%;
     background-image: url('../img/squirtle.png');
     background-repeat: no-repeat;
     background-size: 100px;
